@@ -1,0 +1,2 @@
+1) http://jakeydocs.readthedocs.io/en/latest/  ---- all about the dotnet core at one place.
+2) https://docs.microsoft.com/en-us/aspnet/core/ 

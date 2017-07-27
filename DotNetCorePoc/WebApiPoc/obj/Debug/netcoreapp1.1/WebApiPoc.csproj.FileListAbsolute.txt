@@ -1,0 +1,8 @@
+/home/amit/WebApiPoc/bin/Debug/netcoreapp1.1/WebApiPoc.deps.json
+/home/amit/WebApiPoc/bin/Debug/netcoreapp1.1/WebApiPoc.runtimeconfig.json
+/home/amit/WebApiPoc/bin/Debug/netcoreapp1.1/WebApiPoc.runtimeconfig.dev.json
+/home/amit/WebApiPoc/bin/Debug/netcoreapp1.1/WebApiPoc.dll
+/home/amit/WebApiPoc/bin/Debug/netcoreapp1.1/WebApiPoc.pdb
+/home/amit/WebApiPoc/obj/Debug/netcoreapp1.1/WebApiPoc.AssemblyInfo.cs
+/home/amit/WebApiPoc/obj/Debug/netcoreapp1.1/WebApiPoc.dll
+/home/amit/WebApiPoc/obj/Debug/netcoreapp1.1/WebApiPoc.pdb

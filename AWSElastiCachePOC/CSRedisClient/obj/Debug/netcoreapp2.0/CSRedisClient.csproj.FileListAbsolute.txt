@@ -1,0 +1,9 @@
+d:\Admiral\AWSElastiCachePOC\CSRedisClient\bin\Debug\netcoreapp2.0\CSRedisClient.deps.json
+d:\Admiral\AWSElastiCachePOC\CSRedisClient\bin\Debug\netcoreapp2.0\CSRedisClient.runtimeconfig.json
+d:\Admiral\AWSElastiCachePOC\CSRedisClient\bin\Debug\netcoreapp2.0\CSRedisClient.runtimeconfig.dev.json
+d:\Admiral\AWSElastiCachePOC\CSRedisClient\bin\Debug\netcoreapp2.0\CSRedisClient.dll
+d:\Admiral\AWSElastiCachePOC\CSRedisClient\bin\Debug\netcoreapp2.0\CSRedisClient.pdb
+d:\Admiral\AWSElastiCachePOC\CSRedisClient\obj\Debug\netcoreapp2.0\CSRedisClient.csproj.CoreCompileInputs.cache
+d:\Admiral\AWSElastiCachePOC\CSRedisClient\obj\Debug\netcoreapp2.0\CSRedisClient.AssemblyInfo.cs
+d:\Admiral\AWSElastiCachePOC\CSRedisClient\obj\Debug\netcoreapp2.0\CSRedisClient.dll
+d:\Admiral\AWSElastiCachePOC\CSRedisClient\obj\Debug\netcoreapp2.0\CSRedisClient.pdb

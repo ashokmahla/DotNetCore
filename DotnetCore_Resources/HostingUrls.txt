@@ -1,0 +1,8 @@
+1) https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-14-04-lts
+2) https://github.com/aspnet/Docs/blob/e9c1419175c4dd7e152df3746ba1df5935aaafd5/aspnetcore/publishing/linuxproduction.md
+3) http://nginx.org/en/docs/http/server_names.html (nginx.org)
+4) http://nginx.org/en/docs/
+5) http://jakeydocs.readthedocs.io/en/latest/  ---- all about the dotnet core at one place.
+6) http://jakeydocs.readthedocs.io/en/latest/publishing/linuxproduction.html
+7) https://www.hanselman.com/blog/PublishingAnASPNETCoreWebsiteToACheapLinuxVMHost.aspx
+8) https://rehansaeed.com/nginx-asp-net-core-depth/

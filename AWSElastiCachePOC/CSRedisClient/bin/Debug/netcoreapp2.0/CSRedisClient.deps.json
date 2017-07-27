@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "79df6a869d3d19f49e974e16abd53b2b0f746c8c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "CSRedisClient/1.0.0": {
+        "dependencies": {
+          "csredis": "3.2.1"
+        },
+        "runtime": {
+          "CSRedisClient.dll": {}
+        }
+      },
+      "csredis/3.2.1": {
+        "runtime": {
+          "lib/net40/csredis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSRedisClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "csredis/3.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3biG6S2SUhahenS2NPEIl34IgISncbB/QvkBey2ErBxEn9TKs1R7jCgIIzsv1BRZ02uNfwD2+nVT5HwZXT63Fw==",
+      "path": "csredis/3.2.1",
+      "hashPath": "csredis.3.2.1.nupkg.sha512"
+    }
+  }
+}

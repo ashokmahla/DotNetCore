@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "c5eb8d45ffa6ca039ecc5035f5185059b0a1637a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "SendSample/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SQS": "3.3.2.4"
+        },
+        "runtime": {
+          "SendSample.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.14": {
+        "dependencies": {
+          "System.Collections.NonGeneric": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.SQS/3.3.2.4": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.14"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.SQS.dll": {}
+        }
+      },
+      "System.Collections.NonGeneric/4.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SendSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ERUvaaOeD/FLL0qtOXhW4ev/dK1Z7OP4rD/PdzwJsEgbkM13lrOMjbLE4vKqFrchnDaJ/9T9ffHyYpa5vq5khw==",
+      "path": "awssdk.core/3.3.14",
+      "hashPath": "awssdk.core.3.3.14.nupkg.sha512"
+    },
+    "AWSSDK.SQS/3.3.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hlq1shc0hjRqVE9CZsXh3LyE1Gf4fRQ4yI3JdzzD6mz2+dT6CUyqCfl6ZMKH+ng5x9o0hNgIX7kEFggwisv7iA==",
+      "path": "awssdk.sqs/3.3.2.4",
+      "hashPath": "awssdk.sqs.3.3.2.4.nupkg.sha512"
+    },
+    "System.Collections.NonGeneric/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-so3cP45Zuc55+gaIqEjE0f11azkiAnS+2VHb+L9HQZn2xdfoOhBy5IGyd+D+MFjGb6aGYp3eZ17i7C3eHzh5Yw==",
+      "path": "system.collections.nongeneric/4.0.1",
+      "hashPath": "system.collections.nongeneric.4.0.1.nupkg.sha512"
+    }
+  }
+}

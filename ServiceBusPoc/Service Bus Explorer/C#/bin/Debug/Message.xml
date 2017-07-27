@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Message xmlns="http://schemas.microsoft.com/servicebusexplorer">
+  <Date>12 June 2017 12:38:28</Date>
+  <Content><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<CalculatorRequest xmlns="http://microsoft.azure.cat/samples/schemas/calculator/request">
+  <Operations>
+    <Operation>
+      <Operator>+</Operator>
+      <Operand1>84</Operand1>
+      <Operand2>61</Operand2>
+    </Operation>
+    <Operation>
+      <Operator>-</Operator>
+      <Operand1>68</Operand1>
+      <Operand2>43</Operand2>
+    </Operation>
+    <Operation>
+      <Operator>*</Operator>
+      <Operand1>15</Operand1>
+      <Operand2>8</Operand2>
+    </Operation>
+    <Operation>
+      <Operator>/</Operator>
+      <Operand1>72</Operand1>
+      <Operand2>6</Operand2>
+    </Operation>
+  </Operations>
+</CalculatorRequest>]]></Content>
+</Message>

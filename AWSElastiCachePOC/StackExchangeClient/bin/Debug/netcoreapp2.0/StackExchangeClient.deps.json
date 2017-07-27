@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "8f683166a7e42768fd26071996719f64f4708a68"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "StackExchangeClient/1.0.0": {
+        "dependencies": {
+          "StackExchange.Redis": "1.1.572-alpha"
+        },
+        "runtime": {
+          "StackExchangeClient.dll": {}
+        }
+      },
+      "StackExchange.Redis/1.1.572-alpha": {
+        "runtime": {
+          "lib/net46/StackExchange.Redis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StackExchangeClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StackExchange.Redis/1.1.572-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jAZH3gCWePPec51n9sewQrv5hoRlwjOkJ2UXapMPI0tyoO4aWGY09oZHSldSP02sU+fGG9eZGs85g0xwA/JOIQ==",
+      "path": "stackexchange.redis/1.1.572-alpha",
+      "hashPath": "stackexchange.redis.1.1.572-alpha.nupkg.sha512"
+    }
+  }
+}

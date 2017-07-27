@@ -1,0 +1,11 @@
+D:\Admiral\VSElasticCache\VSElasticCache\bin\Debug\VSElasticCache.exe.config
+D:\Admiral\VSElasticCache\VSElasticCache\bin\Debug\VSElasticCache.exe
+D:\Admiral\VSElasticCache\VSElasticCache\bin\Debug\VSElasticCache.pdb
+D:\Admiral\VSElasticCache\VSElasticCache\bin\Debug\Amazon.ElastiCacheCluster.dll
+D:\Admiral\VSElasticCache\VSElasticCache\bin\Debug\Enyim.Caching.dll
+D:\Admiral\VSElasticCache\VSElasticCache\bin\Debug\Amazon.ElastiCacheCluster.xml
+D:\Admiral\VSElasticCache\VSElasticCache\bin\Debug\Enyim.Caching.pdb
+D:\Admiral\VSElasticCache\VSElasticCache\bin\Debug\Enyim.Caching.xml
+D:\Admiral\VSElasticCache\VSElasticCache\obj\Debug\VSElasticCache.csprojResolveAssemblyReference.cache
+D:\Admiral\VSElasticCache\VSElasticCache\obj\Debug\VSElasticCache.exe
+D:\Admiral\VSElasticCache\VSElasticCache\obj\Debug\VSElasticCache.pdb

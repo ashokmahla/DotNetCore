@@ -1,0 +1,14 @@
+https://aws.amazon.com/sdk-for-net/
+
+https://www.nuget.org/packages/AWSSDK.Core/3.3.14.1
+https://www.nuget.org/packages/AWSSDK.SQS/3.3.2.4
+https://github.com/aws/aws-sdk-net/blob/master/docgenerator/AWSSDKDocSamples/SQS/SQSSamples.cs
+
+https://www.nuget.org/packages/AWSSDK.ElastiCache/3.3.3.6
+https://github.com/aws/aws-sdk-net/blob/master/docgenerator/AWSSDKDocSamples/ElastiCache/ElastiCache.GeneratedSamples.cs
+
+---------Useful links for learning---------------
+https://aws.amazon.com/sqs/faqs/#fifo-queues  --difference between standard vs FIFO Queue
+
+
+

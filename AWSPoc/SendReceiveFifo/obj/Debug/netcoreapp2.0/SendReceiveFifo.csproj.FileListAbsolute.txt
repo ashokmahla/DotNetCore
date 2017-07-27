@@ -1,0 +1,9 @@
+d:\Admiral\AWSPoc\SendReceiveFifo\bin\Debug\netcoreapp2.0\SendReceiveFifo.deps.json
+d:\Admiral\AWSPoc\SendReceiveFifo\bin\Debug\netcoreapp2.0\SendReceiveFifo.runtimeconfig.json
+d:\Admiral\AWSPoc\SendReceiveFifo\bin\Debug\netcoreapp2.0\SendReceiveFifo.runtimeconfig.dev.json
+d:\Admiral\AWSPoc\SendReceiveFifo\bin\Debug\netcoreapp2.0\SendReceiveFifo.dll
+d:\Admiral\AWSPoc\SendReceiveFifo\bin\Debug\netcoreapp2.0\SendReceiveFifo.pdb
+d:\Admiral\AWSPoc\SendReceiveFifo\obj\Debug\netcoreapp2.0\SendReceiveFifo.csproj.CoreCompileInputs.cache
+d:\Admiral\AWSPoc\SendReceiveFifo\obj\Debug\netcoreapp2.0\SendReceiveFifo.AssemblyInfo.cs
+d:\Admiral\AWSPoc\SendReceiveFifo\obj\Debug\netcoreapp2.0\SendReceiveFifo.dll
+d:\Admiral\AWSPoc\SendReceiveFifo\obj\Debug\netcoreapp2.0\SendReceiveFifo.pdb

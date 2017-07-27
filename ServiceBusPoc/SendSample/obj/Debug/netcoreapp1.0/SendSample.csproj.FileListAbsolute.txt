@@ -1,0 +1,9 @@
+D:\Admiral\SendSample\bin\Debug\netcoreapp1.0\SendSample.deps.json
+D:\Admiral\SendSample\bin\Debug\netcoreapp1.0\SendSample.runtimeconfig.json
+D:\Admiral\SendSample\bin\Debug\netcoreapp1.0\SendSample.runtimeconfig.dev.json
+D:\Admiral\SendSample\bin\Debug\netcoreapp1.0\SendSample.dll
+D:\Admiral\SendSample\bin\Debug\netcoreapp1.0\SendSample.pdb
+D:\Admiral\SendSample\obj\Debug\netcoreapp1.0\SendSample.csproj.CoreCompileInputs.cache
+D:\Admiral\SendSample\obj\Debug\netcoreapp1.0\SendSample.AssemblyInfo.cs
+D:\Admiral\SendSample\obj\Debug\netcoreapp1.0\SendSample.dll
+D:\Admiral\SendSample\obj\Debug\netcoreapp1.0\SendSample.pdb

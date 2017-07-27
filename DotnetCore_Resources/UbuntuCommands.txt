@@ -1,0 +1,50 @@
+To list all installed packages
+
+sudo apt --installed list
+To list all the packages you installed
+
+sudo apt --installed list | grep "dotnet-dev"
+to remove a specific package
+
+sudo apt-get remove PACKAGE_NAME 
+e.g.
+
+sudo apt-get remove dotnet-dev-1.0.1
+
+
+--------------------------------------------------------------------
+Uninstalling the Dot net core in ubuntu
+sudo apt-get remove dotnet-host
+-----------------------------------------
+Uninstalling the visual studio core in ubuntu
+sudo apt-get purge code
+----------------------------------------------------------------
+VisualStudioCode Commandlines
+
+https://docs.microsoft.com/en-us/dotnet/articles/core/tools/
+----------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+For opening the visual studio code in Ubuntu
+
+sudo sed -i 's/BIG-REQUESTS/_IG-REQUESTS/' /usr/lib/x86_64-linux-gnu/libxcb.so.1
+----------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------
+Change the user permission of the file for editing
+
+sudo chown amit /etc/nginx/sites-available/default
+
+where amit is the username
+----------------------------------------------------------------------------------------
+
+For killing the running process in Ubuntu eg firefox browser
+
+ pkill firefox
+----------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------
+Removing a directory with its content
+
+sudo rm -rf directoryname
+----------------------------------------------------------------------------------------

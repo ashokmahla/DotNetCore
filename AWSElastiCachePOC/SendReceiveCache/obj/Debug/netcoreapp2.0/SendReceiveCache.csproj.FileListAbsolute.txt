@@ -1,0 +1,9 @@
+D:\Admiral\AWSElastiCachePOC\SendReceiveCache\bin\Debug\netcoreapp2.0\SendReceiveCache.deps.json
+D:\Admiral\AWSElastiCachePOC\SendReceiveCache\bin\Debug\netcoreapp2.0\SendReceiveCache.runtimeconfig.json
+D:\Admiral\AWSElastiCachePOC\SendReceiveCache\bin\Debug\netcoreapp2.0\SendReceiveCache.runtimeconfig.dev.json
+D:\Admiral\AWSElastiCachePOC\SendReceiveCache\bin\Debug\netcoreapp2.0\SendReceiveCache.dll
+D:\Admiral\AWSElastiCachePOC\SendReceiveCache\bin\Debug\netcoreapp2.0\SendReceiveCache.pdb
+D:\Admiral\AWSElastiCachePOC\SendReceiveCache\obj\Debug\netcoreapp2.0\SendReceiveCache.csproj.CoreCompileInputs.cache
+D:\Admiral\AWSElastiCachePOC\SendReceiveCache\obj\Debug\netcoreapp2.0\SendReceiveCache.AssemblyInfo.cs
+D:\Admiral\AWSElastiCachePOC\SendReceiveCache\obj\Debug\netcoreapp2.0\SendReceiveCache.dll
+D:\Admiral\AWSElastiCachePOC\SendReceiveCache\obj\Debug\netcoreapp2.0\SendReceiveCache.pdb

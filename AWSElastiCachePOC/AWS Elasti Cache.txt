@@ -1,0 +1,42 @@
+http://docs.aws.amazon.com/sdkfornet/v3/apidocs/Index.html  -- for checking all amazon feature support in framework versions.
+https://app.pluralsight.com/library/search?q=elasticache
+
+
+https://www.nuget.org/packages/AWSSDK.ElastiCache/3.3.3.6
+https://github.com/aws/aws-sdk-net/blob/master/docgenerator/AWSSDKDocSamples/ElastiCache/ElastiCache.GeneratedSamples.cs
+
+
+-----Redis Clients-----  
+https://redis.io/clients#c  - for all redis supported clients.
+
+Comparison:
+https://dotnet.libhunt.com/project/servicestack-redis/vs/stackexchange-redis
+---------------------------------------------------------------------------------------
+Examples and nuget package
+http://taswar.zeytinsoft.com/redis-running-aws-elasticache/
+http://taswar.zeytinsoft.com/redis-for-net-developer-connecting-with-c/
+https://github.com/taswar/RedisForNetDevelopers/blob/master/1.RedisConnection/RedisConnection/RedisConnection/RedisStore.cs
+https://www.nuget.org/packages/StackExchange.Redis/
+
+-------------------------------------------------------------------------------------------
+https://github.com/ServiceStack/ServiceStack.Redis
+https://github.com/StackExchange/StackExchange.Redis
+
+
+
+Error Solving
+https://stackoverflow.com/questions/30895507/it-was-not-possible-to-connect-to-the-redis-servers-to-create-a-disconnected
+https://stackoverflow.com/questions/29040223/it-was-not-possible-to-connect-to-the-redis-servers-to-create-a-disconnected
+https://github.com/StackExchange/StackExchange.Redis/issues/377
+
+
+--------------------------------------------------------------------------------------------
+dotnet core example
+https://github.com/kichalla/redisclientdotnetcorerepro
+https://stackexchange.github.io/StackExchange.Redis/Configuration
+https://redis.io/clients#c  - for all redis suppoerte clients.
+------------------------------------------------------------------------------
+ 
+
+
+

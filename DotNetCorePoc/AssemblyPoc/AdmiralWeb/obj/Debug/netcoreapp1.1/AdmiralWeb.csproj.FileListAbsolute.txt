@@ -1,0 +1,10 @@
+/home/amit/AssemblyPoc/AdmiralWeb/bin/Debug/netcoreapp1.1/AdmiralWeb.deps.json
+/home/amit/AssemblyPoc/AdmiralWeb/bin/Debug/netcoreapp1.1/AdmiralWeb.runtimeconfig.json
+/home/amit/AssemblyPoc/AdmiralWeb/bin/Debug/netcoreapp1.1/AdmiralWeb.runtimeconfig.dev.json
+/home/amit/AssemblyPoc/AdmiralWeb/bin/Debug/netcoreapp1.1/AdmiralWeb.dll
+/home/amit/AssemblyPoc/AdmiralWeb/bin/Debug/netcoreapp1.1/AdmiralWeb.pdb
+/home/amit/AssemblyPoc/AdmiralWeb/bin/Debug/netcoreapp1.1/Admiral.Api.dll
+/home/amit/AssemblyPoc/AdmiralWeb/bin/Debug/netcoreapp1.1/Admiral.Api.pdb
+/home/amit/AssemblyPoc/AdmiralWeb/obj/Debug/netcoreapp1.1/AdmiralWeb.AssemblyInfo.cs
+/home/amit/AssemblyPoc/AdmiralWeb/obj/Debug/netcoreapp1.1/AdmiralWeb.dll
+/home/amit/AssemblyPoc/AdmiralWeb/obj/Debug/netcoreapp1.1/AdmiralWeb.pdb

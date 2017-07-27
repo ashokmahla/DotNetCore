@@ -1,0 +1,9 @@
+D:\Admiral\ReceiveSample\bin\Debug\netcoreapp1.0\ReceiveSample.deps.json
+D:\Admiral\ReceiveSample\bin\Debug\netcoreapp1.0\ReceiveSample.dll
+D:\Admiral\ReceiveSample\bin\Debug\netcoreapp1.0\ReceiveSample.pdb
+D:\Admiral\ReceiveSample\obj\Debug\netcoreapp1.0\ReceiveSample.csproj.CoreCompileInputs.cache
+D:\Admiral\ReceiveSample\obj\Debug\netcoreapp1.0\ReceiveSample.AssemblyInfo.cs
+D:\Admiral\ReceiveSample\obj\Debug\netcoreapp1.0\ReceiveSample.dll
+D:\Admiral\ReceiveSample\obj\Debug\netcoreapp1.0\ReceiveSample.pdb
+d:\Admiral\ReceiveSample\bin\Debug\netcoreapp1.0\ReceiveSample.runtimeconfig.json
+d:\Admiral\ReceiveSample\bin\Debug\netcoreapp1.0\ReceiveSample.runtimeconfig.dev.json

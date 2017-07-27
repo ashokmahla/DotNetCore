@@ -1,0 +1,9 @@
+D:\Admiral\DotnetCore_EnityFramework\bin\Debug\netcoreapp2.0\DotnetCore_EnityFramework.deps.json
+D:\Admiral\DotnetCore_EnityFramework\bin\Debug\netcoreapp2.0\DotnetCore_EnityFramework.runtimeconfig.json
+D:\Admiral\DotnetCore_EnityFramework\bin\Debug\netcoreapp2.0\DotnetCore_EnityFramework.runtimeconfig.dev.json
+D:\Admiral\DotnetCore_EnityFramework\bin\Debug\netcoreapp2.0\DotnetCore_EnityFramework.dll
+D:\Admiral\DotnetCore_EnityFramework\bin\Debug\netcoreapp2.0\DotnetCore_EnityFramework.pdb
+D:\Admiral\DotnetCore_EnityFramework\obj\Debug\netcoreapp2.0\DotnetCore_EnityFramework.csproj.CoreCompileInputs.cache
+D:\Admiral\DotnetCore_EnityFramework\obj\Debug\netcoreapp2.0\DotnetCore_EnityFramework.AssemblyInfo.cs
+D:\Admiral\DotnetCore_EnityFramework\obj\Debug\netcoreapp2.0\DotnetCore_EnityFramework.dll
+D:\Admiral\DotnetCore_EnityFramework\obj\Debug\netcoreapp2.0\DotnetCore_EnityFramework.pdb

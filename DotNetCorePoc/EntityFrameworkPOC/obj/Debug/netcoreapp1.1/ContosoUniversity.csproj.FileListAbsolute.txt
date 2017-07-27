@@ -1,0 +1,16 @@
+D:/Admiral/ContosoApp/bin/Debug/netcoreapp1.1/ContosoUniversity.deps.json
+D:/Admiral/ContosoApp/bin/Debug/netcoreapp1.1/ContosoUniversity.runtimeconfig.json
+D:/Admiral/ContosoApp/bin/Debug/netcoreapp1.1/ContosoUniversity.runtimeconfig.dev.json
+D:/Admiral/ContosoApp/bin/Debug/netcoreapp1.1/ContosoUniversity.dll
+D:/Admiral/ContosoApp/bin/Debug/netcoreapp1.1/ContosoUniversity.pdb
+D:/Admiral/ContosoApp/obj/Debug/netcoreapp1.1/ContosoUniversity.AssemblyInfo.cs
+D:/Admiral/ContosoApp/obj/Debug/netcoreapp1.1/ContosoUniversity.dll
+D:/Admiral/ContosoApp/obj/Debug/netcoreapp1.1/ContosoUniversity.pdb
+/home/amit/ContosoApp/bin/Debug/netcoreapp1.1/ContosoUniversity.deps.json
+/home/amit/ContosoApp/bin/Debug/netcoreapp1.1/ContosoUniversity.runtimeconfig.json
+/home/amit/ContosoApp/bin/Debug/netcoreapp1.1/ContosoUniversity.runtimeconfig.dev.json
+/home/amit/ContosoApp/bin/Debug/netcoreapp1.1/ContosoUniversity.dll
+/home/amit/ContosoApp/bin/Debug/netcoreapp1.1/ContosoUniversity.pdb
+/home/amit/ContosoApp/obj/Debug/netcoreapp1.1/ContosoUniversity.AssemblyInfo.cs
+/home/amit/ContosoApp/obj/Debug/netcoreapp1.1/ContosoUniversity.dll
+/home/amit/ContosoApp/obj/Debug/netcoreapp1.1/ContosoUniversity.pdb

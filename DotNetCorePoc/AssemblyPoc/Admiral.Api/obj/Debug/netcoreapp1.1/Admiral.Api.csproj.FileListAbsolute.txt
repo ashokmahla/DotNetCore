@@ -1,0 +1,6 @@
+/home/amit/AssemblyPoc/Admiral.Api/bin/Debug/netcoreapp1.1/Admiral.Api.deps.json
+/home/amit/AssemblyPoc/Admiral.Api/bin/Debug/netcoreapp1.1/Admiral.Api.dll
+/home/amit/AssemblyPoc/Admiral.Api/bin/Debug/netcoreapp1.1/Admiral.Api.pdb
+/home/amit/AssemblyPoc/Admiral.Api/obj/Debug/netcoreapp1.1/Admiral.Api.AssemblyInfo.cs
+/home/amit/AssemblyPoc/Admiral.Api/obj/Debug/netcoreapp1.1/Admiral.Api.dll
+/home/amit/AssemblyPoc/Admiral.Api/obj/Debug/netcoreapp1.1/Admiral.Api.pdb
